@@ -1,9 +1,9 @@
 # Business Questions & Insights
 
-This document explains the business value behind each SQL query, view, stored procedure, and trigger used in the Online Retail Store Management project. The objective is to demonstrate that the project answers real business questions rather than only showcasing SQL syntax.
+This document explains the business value behind each SQL query, view, stored procedure, and trigger used in the Noventra sales analysis. The objective is to demonstrate that the project answers real business questions rather than only showcasing SQL syntax.
 
 ## Dataset Overview
-- **Source:** Online retail sales dataset
+- **Source:** Noventra end to end sales performance analytics
 - **Records processed:** 100,000+ orders (bulk imported)
 - **Database design:** 3NF normalized schema
 - **Core tables:** Orders, Customers, Products, Locations, Dates
