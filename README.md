@@ -48,7 +48,7 @@ Power BI
 
 | Technology | Purpose |
 |------------|---------|
-| Excel | Raw Data Source, Data Cleaning |
+| Excel | Raw Data Source & Data Cleaning |
 | SQL Server | Data Modeling & Business Analysis |
 | Power BI | Dashboard & Visualization |
 | DAX | KPI & Time Intelligence Measures |
