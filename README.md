@@ -1,4 +1,4 @@
-# 📊 Noventra End to End Sales Performance Analysis
+# 📊 Noventra End-to-End Business Intelligence Solution
 
 An end-to-end Business Intelligence project built for **Noventra**, a fictional e-commerce smart solutions company. The project demonstrates a complete analytics pipeline—from raw data cleaning and SQL database normalization to business analysis and interactive Power BI dashboard enabling data-driven decision-making.
 
