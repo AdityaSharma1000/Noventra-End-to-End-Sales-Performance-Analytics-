@@ -130,7 +130,7 @@ This project enables management to:
 
 # 📷 Dashboard Preview
 
-<img width="1276" height="718" alt="power bi report screenshot" src="C:\Users\Aditya\Downloads\noventra dashboard screenshot.JPG" />
+![Noventra Dashboard](noventradashboardscreenshot.jpg)
 
 ---
 
