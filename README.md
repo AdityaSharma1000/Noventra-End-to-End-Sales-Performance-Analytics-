@@ -108,8 +108,6 @@ This project enables management to:
 - Time Intelligence Measures
 - DAX Calculations
 - Dynamic Slicers
-- Drill-down Analysis
-- Conditional Formatting
 - Executive Dashboard Design
 
 ---
